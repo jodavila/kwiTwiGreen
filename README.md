@@ -1,7 +1,6 @@
 # kwiTwiGreen
 Estudo de Python
-
-Instalar o Visual Studio Code (VSCode) no Windows e habilitar o suporte para Python é um processo simples. Aqui estão os passos básicos:
+Iniciado em 09/01/2024
 
 ### Instalação do Visual Studio Code:
 
