@@ -1,6 +1,7 @@
 # kwiTwiGreen
 Estudo de Python
-Iniciado em 09/01/2024
+
+ Iniciado em 09/01/2024
 
 ### Instalação do Visual Studio Code:
 
@@ -36,3 +37,7 @@ Iniciado em 09/01/2024
    Coloque o cursor em uma linha de código Python e pressione `Ctrl + Enter` ou use o comando `Run Python File in Terminal` no menu de contexto.
 
 Agora, o Visual Studio Code deve estar configurado para o desenvolvimento Python. Certifique-se de que o interpretador Python selecionado corresponda ao que você deseja usar no seu projeto. Se você enfrentar problemas, verifique as mensagens de erro no console do VSCode ou consulte a documentação para obter assistência adicional.
+
+### Documentação Python:
+   - https://www.python.org/
+   - https://www.w3schools.com/python/
