@@ -1,7 +1,6 @@
 # kwiTwiGreen
 Estudo de Python
 
- Iniciado em 09/01/2024
 
 ### Instalação do Visual Studio Code:
 
