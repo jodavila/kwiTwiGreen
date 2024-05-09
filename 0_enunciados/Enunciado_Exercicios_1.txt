@@ -1,0 +1,16 @@
+
+Ao escrever o código, colocar no cabeçalho como comentario o exercicio a qual se refere.
+
+Utilizar input para receber os valores, if ... else, print, operadores aritméticos 
+
+1) Escrever o código que receba 3 valores e verifique qual é o maior deles e qual é o menor.
+
+2) Escrever o código que recebe dois valores e realiza a soma deles
+
+3) Fazer três perguntas e exibir a resposta no final. Perguntas: Qual seu nome? Qual sua idade? Qual seu gênero? E exibir a frase com o nome idade e gênero informados.
+
+Exemplo de entradas:
+Joana
+26
+M 
+Exemplo de saída: Olá, meu nome é Joana. Tenho 26 anos e sou uma garota.
